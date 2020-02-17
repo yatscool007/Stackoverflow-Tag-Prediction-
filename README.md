@@ -1,5 +1,4 @@
 # Stackoverflow-Tag-Prediction-
-A multilabel Classification problem 
 <img src = https://github.com/yatscool007/Stackoverflow-Tag-Prediction-/blob/master/Images/sWyuy4Y.jpg>
 
 
